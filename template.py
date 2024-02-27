@@ -5,7 +5,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name = "Data Science Projects"
+project_name = "Data_Science_Projects"
 
 list_of_files = [
     f"src/{project_name}/components/__init__.py",
